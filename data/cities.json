@@ -37,15 +37,15 @@
       "id": "98443197"
     },
     {
-      "id": "3ef8",
-      "cityName": "Allmendingen",
-      "country": "Switzerland",
-      "emoji": "🇨🇭",
-      "date": "2024-05-26T22:00:00.000Z",
+      "id": "8504",
+      "cityName": "Stadtlauringen",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-05-07T22:00:00.000Z",
       "notes": "",
       "position": {
-        "lat": "46.92025531537454",
-        "lng": "7.514648437500001"
+        "lat": "50.17668046756631",
+        "lng": "10.371093750000002"
       }
     }
   ]
